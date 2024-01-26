@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LES0VJDzt79R/bzZG3MGY9BbRSRP3D9JSHUpaM9ZyP7yLPPjKOQiG/ERRsMHBZKtjWAHq1ye7OKjzmhMELyIMw==",
+  "success": true,
+  "projectFilePath": "E:\\Programing\\CSharp_Application\\rest-api-breakfast\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FPTSHOP\\.nuget\\packages\\erroror\\1.9.0\\erroror.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+@id=6e97986e-6084-4b78-be4a-603d2c2bbc0f
+PUt http://localhost:5083/breakfast/{{id}}
+Content-Type: application/json
+
+{
+    "name": "V 2",
+    "description": "",
+    "startDateTime": "2022-04-08T08:00:00",
+    "endDateTime": "2022-04-08T11:00:00",
+    "savory": [
+        "Oatmeal",
+        "Avocado Toast",
+        "Omelette",
+        "Salad"
+    ],
+    "Sweet": [
+        "Cookie"
+    ]
+}
